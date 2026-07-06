@@ -1,3 +1,8 @@
-this is code 4
- dtuyetijklftldxfkklk 
-kjsfk;fskkfl;'fkllk
+#include<stdio.h>
+int main()
+{
+int a,b;
+printf("a=");
+printf("b=")'
+printf("c=",a+b);
+}
